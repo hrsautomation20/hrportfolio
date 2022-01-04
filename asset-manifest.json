@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/hrportfolio/static/css/main.d44e56d2.css",
+    "main.js": "/hrportfolio/static/js/main.61e363a2.js",
+    "static/media/FlippedPages.PNG": "/hrportfolio/static/media/FlippedPages.3ea224f1e16b7189f07f.PNG",
+    "static/media/mypic1.jpg": "/hrportfolio/static/media/mypic1.99a9b4b7df19916c53b2.jpg",
+    "static/media/DefineHubMain.PNG": "/hrportfolio/static/media/DefineHubMain.3e8dde8571877f5566fb.PNG",
+    "static/media/map.png": "/hrportfolio/static/media/map.512cd5f388abece95f10.png",
+    "static/media/hrhero.PNG": "/hrportfolio/static/media/hrhero.48d6f1470b12176225cc.PNG",
+    "static/media/CodeQuizMain.PNG": "/hrportfolio/static/media/CodeQuizMain.89e604da16ac2cf7d34d.PNG",
+    "static/media/Montserrat-Bold.ttf": "/hrportfolio/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/hrportfolio/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/WorkdayMain.PNG": "/hrportfolio/static/media/WorkdayMain.1ec2d57e73fd1b62656c.PNG",
+    "static/media/PasswordMain.PNG": "/hrportfolio/static/media/PasswordMain.20c9ee0e40b0eb960274.PNG",
+    "static/media/WeatherMain.PNG": "/hrportfolio/static/media/WeatherMain.9d662920680e27e8e17e.PNG",
+    "static/media/RobotoMono-Regular.ttf": "/hrportfolio/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "static/media/WallyTracker.PNG": "/hrportfolio/static/media/WallyTracker.2171f1faf2205577db1b.PNG",
+    "static/media/projectImg.png": "/hrportfolio/static/media/projectImg.771236e1a97e2201a189.png",
+    "index.html": "/hrportfolio/index.html",
+    "static/media/scroll-down-arrow.svg": "/hrportfolio/static/media/scroll-down-arrow.b013ca458cf827f32732e3ce3c691d03.svg",
+    "static/media/social-media-arrow.svg": "/hrportfolio/static/media/social-media-arrow.f5e093ceb316785e72dc77d75e5ed04f.svg",
+    "main.d44e56d2.css.map": "/hrportfolio/static/css/main.d44e56d2.css.map",
+    "main.61e363a2.js.map": "/hrportfolio/static/js/main.61e363a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d44e56d2.css",
+    "static/js/main.61e363a2.js"
+  ]
+}
