@@ -1,7 +1,7 @@
-import React from "react";
-import styled from "styled-components";
-import FooterCol from "./FooterCol";
-import PText from "./PText";
+import React from 'react';
+import styled from 'styled-components';
+import FooterCol from './FooterCol';
+import PText from './PText';
 
 const FooterStyle = styled.div`
   padding-top: 10rem;
@@ -66,24 +66,24 @@ export default function Footer() {
             heading="Important Links"
             links={[
               {
-                title: "Home",
-                path: "/",
-                type: "Link",
+                title: 'Home',
+                path: '/',
+                type: 'Link',
               },
               {
-                title: "About",
-                path: "/about",
-                type: "Link",
+                title: 'About',
+                path: '/about',
+                type: 'Link',
               },
               {
-                title: "Projects",
-                path: "/projects",
-                type: "Link",
+                title: 'Projects',
+                path: '/projects',
+                type: 'Link',
               },
               {
-                title: "Contact",
-                path: "/contact",
-                type: "Link",
+                title: 'Contact',
+                path: '/contact',
+                type: 'Link',
               },
             ]}
           />
@@ -93,16 +93,16 @@ export default function Footer() {
             heading="Contact Info"
             links={[
               {
-                title: "+1(727)507-1198",
-                path: "Tel: +1(727)507-1198",
+                title: '+1(910)591-1795',
+                path: 'Tel: +1(910)591-1795',
               },
               {
-                title: "hrsautomation20@gmail.com",
-                path: "mailto:hrsautomation20@gmail.com",
+                title: 'hrsautomation20@gmail.com',
+                path: 'mailto:hrsautomation20@gmail.com',
               },
               {
-                title: "Cary, NC",
-                path: "http://google.com/maps",
+                title: 'Cary, NC',
+                path: 'http://google.com/maps',
               },
             ]}
           />
@@ -112,20 +112,20 @@ export default function Footer() {
             heading="Social Links"
             links={[
               {
-                title: "Facebook",
-                path: "https://facebook.com",
+                title: 'Facebook',
+                path: 'https://facebook.com',
               },
               {
-                title: "Instagram",
-                path: "https://facebook.com",
+                title: 'Instagram',
+                path: 'https://facebook.com',
               },
               {
-                title: "Github",
-                path: "https://facebook.com",
+                title: 'Github',
+                path: 'https://facebook.com',
               },
               {
-                title: "Twitter",
-                path: "https://facebook.com",
+                title: 'Twitter',
+                path: 'https://facebook.com',
               },
             ]}
           />
