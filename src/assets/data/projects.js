@@ -6,8 +6,15 @@ import WeatherDash from '../images/WeatherMain.PNG';
 import WorkDay from '../images/WorkdayMain.PNG';
 import WallyTracker from '../images/WallyTracker.PNG';
 import PasswordGen from '../images/PasswordMain.PNG';
+import MindSpace from '../images/MindSpace.PNG';
 
 const projects = [
+  {
+    id: uuidv4(),
+    name: 'MindSpace',
+    desc: 'MindSpace is a user friendly web application for mental health tracking.',
+    img: MindSpace,
+  },
   {
     id: uuidv4(),
     name: 'DefineHub',
